@@ -10,7 +10,7 @@ Website ini mendeteksi penyakit daun tembakau menggunakan model **MobileNetV2** 
 
 ```bash
 git clone https://github.com/frand-kod/Python.git
-cd ml-webapp
+cd Python
 ```
 
 ### 2. Backend (FastAPI)
