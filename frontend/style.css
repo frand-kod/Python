@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+  background-color: #f8f9fa;
+}
+
+h1 {
+  color: #333;
+}
+
+#result {
+  margin-top: 20px;
+  background: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  display: flexbox;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
