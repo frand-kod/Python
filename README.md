@@ -17,7 +17,7 @@ cd Python
 
 ```bash
 cd backend
-pip install -r requirements.txt
+pip install -r req.txt
 uvicorn app:app --reload --port 8000
 ```
 
