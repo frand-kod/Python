@@ -9,7 +9,7 @@ Website ini mendeteksi penyakit daun tembakau menggunakan model **MobileNetV2** 
 ### 1. Clone Repo
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/frand-kod/Python.git
 cd ml-webapp
 ```
 
